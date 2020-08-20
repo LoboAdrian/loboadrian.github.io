@@ -2310,3 +2310,10 @@ input, select, textarea {
 			}
 
 		}
+
+/* Footer */
+
+#hackclub {
+	display: flex;
+	flex-direction: column;
+}
