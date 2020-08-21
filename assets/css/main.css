@@ -2311,6 +2311,11 @@ input, select, textarea {
 
 		}
 
+	a {
+		color: black;
+		text-decoration: none;
+	}
+
 /* Footer */
 
 #hackclub {
